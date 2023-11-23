@@ -1,0 +1,15 @@
+C:\Users\fabio\Desktop\Nova pasta\TextoEditor\TextoEditor\bin\Debug\net7.0\TextoEditor.exe
+C:\Users\fabio\Desktop\Nova pasta\TextoEditor\TextoEditor\bin\Debug\net7.0\TextoEditor.deps.json
+C:\Users\fabio\Desktop\Nova pasta\TextoEditor\TextoEditor\bin\Debug\net7.0\TextoEditor.runtimeconfig.json
+C:\Users\fabio\Desktop\Nova pasta\TextoEditor\TextoEditor\bin\Debug\net7.0\TextoEditor.dll
+C:\Users\fabio\Desktop\Nova pasta\TextoEditor\TextoEditor\bin\Debug\net7.0\TextoEditor.pdb
+C:\Users\fabio\Desktop\Nova pasta\TextoEditor\TextoEditor\obj\Debug\net7.0\TextoEditor.csproj.AssemblyReference.cache
+C:\Users\fabio\Desktop\Nova pasta\TextoEditor\TextoEditor\obj\Debug\net7.0\TextoEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\Nova pasta\TextoEditor\TextoEditor\obj\Debug\net7.0\TextoEditor.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\Nova pasta\TextoEditor\TextoEditor\obj\Debug\net7.0\TextoEditor.AssemblyInfo.cs
+C:\Users\fabio\Desktop\Nova pasta\TextoEditor\TextoEditor\obj\Debug\net7.0\TextoEditor.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\Nova pasta\TextoEditor\TextoEditor\obj\Debug\net7.0\TextoEditor.dll
+C:\Users\fabio\Desktop\Nova pasta\TextoEditor\TextoEditor\obj\Debug\net7.0\refint\TextoEditor.dll
+C:\Users\fabio\Desktop\Nova pasta\TextoEditor\TextoEditor\obj\Debug\net7.0\TextoEditor.pdb
+C:\Users\fabio\Desktop\Nova pasta\TextoEditor\TextoEditor\obj\Debug\net7.0\TextoEditor.genruntimeconfig.cache
+C:\Users\fabio\Desktop\Nova pasta\TextoEditor\TextoEditor\obj\Debug\net7.0\ref\TextoEditor.dll
